@@ -32,6 +32,10 @@ pip install -r requirements.txt
 - `inference_pipeline.ipynb`: The notebook for running model inference across the benchmark.
 - `evaluator_sop.ipynb`: Standard Operating Procedure (SOP) notebook for the evaluation pipeline.
 
+### Dataset
+
+The dataset can be found at [Dataset Link](https://bitspilaniac-my.sharepoint.com/:f:/g/personal/f20231279_pilani_bits-pilani_ac_in/IgB80e0TSlwLTZ_F8ebxyZdTAXBKVv4e2MuZ3RqHUEHSAn8?e=IGD24D) (password: AuthorityBench)
+
 ## Citation
 
 If you use this benchmark in your work, please cite:
