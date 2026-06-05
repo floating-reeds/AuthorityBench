@@ -39,7 +39,7 @@ If you use this benchmark in your work, please cite:
 ```bibtex
 @article{authoritybench2026,
   title={Authority, Truth, and Citation Bias: A Large-Scale Multi-Domain Benchmark for Studying Epistemic Susceptibility in Large Language Models},
-  author={First Author and Second Author},
+  author={Aryan Khurana, Aravind Ramana RN, Dhruv Kumar},
   year={2026}
 }
 ```
